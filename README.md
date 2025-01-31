@@ -1,4 +1,5 @@
-## Hi there 👋
+## Passionate Programmer Exploring Tech Things
+
 
 <!--
 **MeKaustubh07/MeKaustubh07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
